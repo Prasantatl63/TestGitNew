@@ -1,0 +1,14 @@
+Q. What is Synchronization in Selenium?
+A. Process of matching the Selenium speed with application is called as  Synchronization.
+
+There are five types of Wait, used in Selenium for synchronization.
+
+1. Thread.Sleep
+2. Implicit Wait
+3. Fluent Wait
+4. Explicit Wait, we can also call it as WebDriver wait.
+5. Page Load Timeout.
+
+They are applicable at different conditions while locating the web element.
+
+Read it here in detail :- https://lnkd.in/e3mBcyx
