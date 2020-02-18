@@ -1,4 +1,4 @@
-Q. What is Synchronization in Selenium?
+Q. What is Synchronization in Selenium ?
 A. Process of matching the Selenium speed with application is called as  Synchronization.
 
 There are five types of Wait, used in Selenium for synchronization.
